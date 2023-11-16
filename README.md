@@ -13,7 +13,6 @@
 - Infrastructure: Docker, Linux, Vite, Inertia.js, Webpack.
 
 I work with the Git version control system.
-GitHub - github.com/shoumq
 
 I have been involved in projects of varying complexity - from simple one-page websites to complex web applications that support millions of users in real time. I also have experience integrating with the API of third-party services. Developed a lot of pet projects.
 
