@@ -6,9 +6,18 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shoumq&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shoumq&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+#### I have more than three years of experience in web development. I have experience in REST API development. I work with both client and server technologies, including:
+- Front-end technologies: HTML5, CSS3 (SASS, SCSS), JavaScript (ES6), Vue.js / Nuxt.js (Vuex, Pinia, Vue Router, Axios, Vuetify, Composition API / Options API), WebSocket, TypeScript.
+- Back-end technologies: PHP (Laravel), Python (Django), Node.js, Nest.js, Pusher, Swagger, JWT-auth.
+- Databases: MySQL, SQLite, PostgreSQL, MongoDB, Redis.
+- Infrastructure: Docker, Linux, Vite, Inertia.js, Webpack.
 
+I work with the Git version control system.
+GitHub - github.com/shoumq
+
+I have been involved in projects of varying complexity - from simple one-page websites to complex web applications that support millions of users in real time. I also have experience integrating with the API of third-party services. Developed a lot of pet projects.
+
+#### At the moment I am a student of Plekhanov Russian University of Economics.
 ---
 [![](https://visitcount.itsvg.in/api?id=shoumq&icon=0&color=0)](https://visitcount.itsvg.in)
 
