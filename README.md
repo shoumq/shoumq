@@ -16,7 +16,7 @@ I work with the Git version control system.
 
 I have been involved in projects of varying complexity - from simple one-page websites to complex web applications that support millions of users in real time. I also have experience integrating with the API of third-party services. Developed a lot of pet projects.
 
-#### At the moment I am a student of Plekhanov Russian University of Economics.
+#### 🎓 I'm currently a student of Plekhanov Russian University of Economics.
 ---
 [![](https://visitcount.itsvg.in/api?id=shoumq&icon=0&color=0)](https://visitcount.itsvg.in)
 
