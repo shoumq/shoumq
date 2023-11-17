@@ -10,7 +10,7 @@
 - Front-end technologies: HTML5, CSS3 (SASS, SCSS), JavaScript (ES6), Vue.js / Nuxt.js (Vuex, Pinia, Vue Router, Axios, Vuetify, Composition API / Options API), WebSocket, TypeScript.
 - Back-end technologies: PHP (Laravel), Python (Django), Node.js, Nest.js, Pusher, Swagger, JWT-auth.
 - Databases: MySQL, SQLite, PostgreSQL, MongoDB, Redis.
-- Infrastructure: Docker, Linux, Vite, Inertia.js, Webpack.
+- Additionally: Docker, Linux, Vite, Inertia.js, Webpack.
 
 I work with the Git version control system.
 
