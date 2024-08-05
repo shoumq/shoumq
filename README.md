@@ -7,10 +7,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shoumq&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 #### I have more than three years of experience in web development. I have experience in REST API development. I work with both client and server technologies, including:
-- Front-end technologies: HTML5, CSS3 (SASS, SCSS), JavaScript (ES6), Vue.js / Nuxt.js (Vuex, Pinia, Vue Router, Axios, Vuetify, Composition API / Options API), WebSocket, TypeScript.
-- Back-end technologies: PHP (Laravel), Python (Django), Node.js, Nest.js, Pusher, Swagger, JWT-auth.
+- Front-end technologies: HTML5, CSS3 (SASS, SCSS), JavaScript (ES6), Vue.js / Nuxt.js, WebSocket, TypeScript, PWA/SPA/SSR.
+- Back-end technologies: PHP, Laravel, Python, Django, Node.js, Nest.js, Pusher, Swagger, Golang.
 - Databases: MySQL, SQLite, PostgreSQL, MongoDB, Redis.
-- Additionally: Docker, Linux, Vite, Inertia.js, Webpack.
+- Additionally: Docker, Linux, Vite, Inertia.js, Webpack, Apache, SOLID, DRY.
 
 I work with the Git version control system.
 
